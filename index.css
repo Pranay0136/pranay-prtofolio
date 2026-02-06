@@ -1,0 +1,238 @@
+body{
+    background-color: rgb(7, 7, 7);
+}
+.container1{
+    display: flex;
+    padding-left: 20%;
+    
+     
+}
+.container1 img{
+    width:20%;
+     
+    border-radius: 50% 50% 0% 0%;
+    margin-left: 40%;
+    transition: 0.3s ease;
+     
+}
+.container1 img:hover{
+    cursor:pointer;
+    -webkit-box-reflect: below 5px linear-gradient(transparent, rgba(0,0,0,0.4));
+
+}
+.container1 h2{
+    padding-top: 10%;
+    padding-left: 0%;
+    margin-left: 0%;
+    color: aliceblue;
+    border-bottom: 0%;
+}
+div span p{
+    padding-top: 1%;
+    padding-right: 40%;
+    padding-left: 20%;
+    color: aliceblue;
+    margin-top: 0%;
+    border-top: 0%;
+}
+.button-class1{
+    padding-left: 20%;
+     padding-top: 0%;
+     
+
+}
+.button-class1 a{
+     margin-right: 10%;
+}
+.abc1{
+    color: aliceblue;
+    font-style: bold;
+    padding-left: 20%;
+    margin-top: 15%;
+}
+.abc1 span p{
+    color: aliceblue;
+    
+}
+.square {
+     height: 400px;
+     width: 400px;
+     border:solid;
+     background-color: rgb(206, 197, 197);
+     padding-left: 60%;
+     margin-left: 20%;
+}
+nav{
+  position: sticky;
+  top: 0;
+  background-color: black; /* or whatever color */
+  z-index: 1000;
+  height: 10hv; /* IMPORTANT — set a fixed height */
+  display: flex;
+  align-items: center;
+  padding: 0 20px;    
+}
+nav a{
+    text-decoration: none;
+      
+    padding: 2%;
+   
+     
+    align-items: center;
+     
+    color: white;
+}
+
+.githud-class img{
+    width: 10%;
+    
+}
+.align-right{
+    padding-left: 0%;
+    margin-left: 90%;
+    padding-top: 0%;
+    margin-top: 0%;
+     
+}
+.square{
+    display: flex;
+    background-color: lightgray;
+    justify-content: center;  /* horizontal center */
+  align-items: center;      /* vertical center */
+   
+}
+.square h2{
+    color: aliceblue;
+    
+}
+.card {
+
+    width: 60%;
+    height: 50%;
+   margin-left: 20%;
+    margin-top: 10%;
+    text-align: left;
+    background-color: grey;
+     padding-bottom: 5%;
+}
+ 
+.card:hover {
+  transform: scale(1.05); 
+}
+.card h2{
+    padding-left: 5%;
+    padding-top: 5%;
+    color:whitesmoke;
+}
+.card h3{
+    padding-left: 6%;
+    padding-top: 5%;
+    color:aqua;
+}
+#abc2{
+    margin-left:2%;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 10%;
+}
+.card1 {
+
+    width: 60%;
+    height: 50%;
+   margin-left: 20%;
+    margin-top: 10%;
+    text-align: left;
+    background-color: grey;
+     padding-bottom: 5%;
+     border-radius: 2%;
+}
+.card1:hover {
+  transform: scale(1.05); 
+}
+.card1 h2{
+    padding-left: 5%;
+    padding-top: 5%;
+    color:whitesmoke;
+}
+.card1 h3{
+    padding-left: 6%;
+    padding-top: 5%;
+    color:aqua;
+}
+.card1 p {
+    color: azure;
+    padding-left: 6%;
+}
+.card1 ul {
+    color: azure;
+    padding-left: 7%;
+     
+}
+.card1 a{
+    text-decoration: none;
+}
+.card2 {
+
+    width: 60%;
+    height: 50%;
+   margin-left: 20%;
+    margin-top: 10%;
+    text-align: left;
+    background-color: grey;
+     padding-bottom: 5%;
+     border-radius: 2%;
+}
+.card2:hover {
+  transform: scale(1.05); 
+}
+.card2 h2{
+    padding-left: 5%;
+    padding-top: 5%;
+    color:whitesmoke;
+}
+.card2 h3{
+    padding-left: 6%;
+    padding-top: 5%;
+    color:aqua;
+}
+.card2 p {
+    color: azure;
+    padding-left: 6%;
+}
+.card2 ul {
+    color: azure;
+    padding-left: 7%;
+     
+}
+.card3 {
+
+    width: 60%;
+    height: 50%;
+   margin-left: 20%;
+    margin-top: 10%;
+    text-align: left;
+    background-color: grey;
+     padding-bottom: 5%;
+     border-radius: 2%;
+}
+.card3:hover {
+  transform: scale(1.05); 
+}
+.card3 h2{
+    text-align: center;
+    color:whitesmoke;
+     padding-top: 5%;
+}
+.flex-box img{
+    width: 15%;
+    border-radius: 50%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.flex-box{
+    display: flex;
+      gap:10%;
+      align-items: space-around;
+}
